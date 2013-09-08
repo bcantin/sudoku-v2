@@ -1,5 +1,4 @@
 module Sudoku
-  
   class Cell
   
     attr_reader   :row, :column, :value
@@ -26,5 +25,4 @@ module Sudoku
     end
 
   end
-
 end
